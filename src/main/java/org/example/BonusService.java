@@ -11,5 +11,3 @@ public class BonusService {
         } else {return 1000;}
     }
 }
-//
-//
